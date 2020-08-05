@@ -6,7 +6,7 @@ node.js react
 
 ## 들어가기 앞서
 
-- src/App.js, cons 상수로 쿠폰 정보가 들어 있습니다.
+- src/App.js, cons 상수에 쿠폰 정보가 들어 있습니다.
 
 - 각 키별 정보는 아래와 같습니다.
 
