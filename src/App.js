@@ -54,12 +54,12 @@ const cons = [
   },
 ]
 
-// 함수 형
+// 함수형 컴포넌트
 const App = () => {
   return <div></div>
 }
 
-// 클래스형 컴포넌트로 작성을 원하면 아래 폼을 이용해 주세요.
+// 클래스형 컴포넌트
 //
 // class App extends Component {
 //   render() {
