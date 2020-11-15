@@ -34,6 +34,8 @@ yarn dev
 
 ## SPEC
 
+예시 이미지 : https://www.figma.com/file/ONptAmI2PWCH8Tm26cNZS1/interview-react?node-id=0%3A1
+
 1. cons 에 있는 데이터로 각 브랜드별 버튼을 생성 (중복 없이)
 
    1.1. 버튼엔 브랜드 이름이 들어가야함
